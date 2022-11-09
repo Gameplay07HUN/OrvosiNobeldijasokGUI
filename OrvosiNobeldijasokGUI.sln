@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrvosiNobeldijasokGUI", "OrvosiNobeldijasokGUI\OrvosiNobeldijasokGUI.csproj", "{BDBEF3CF-8EA3-4B52-BDF0-FC6B4245FA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBEF3CF-8EA3-4B52-BDF0-FC6B4245FA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBEF3CF-8EA3-4B52-BDF0-FC6B4245FA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBEF3CF-8EA3-4B52-BDF0-FC6B4245FA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBEF3CF-8EA3-4B52-BDF0-FC6B4245FA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C7612D4-F9EB-4916-B2D2-38FB22D489E7}
+	EndGlobalSection
+EndGlobal
